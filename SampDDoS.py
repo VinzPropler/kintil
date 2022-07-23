@@ -20,9 +20,6 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDoS Tools Samp")
 print
-print "Author   : Orang"
-print "Tingkat  : Newbie"
-print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
